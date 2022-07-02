@@ -1,22 +1,23 @@
 .header {
-  background-color: #000;
-  color: #fff;
+  background-color: #f4b41a;
+  color: #143d59;
+  
 }
 .card {
   box-shadow: 0 4px 8px 10px rgba(0, 0, 0, 0.4);
-  max-width: 300px;
+  max-width: 400px;
   margin: auto;
   text-align: center;
   
 }
 
 .corbotao{
-  background-color: #000;
-  color: #fff;
+  background-color: #143d59;
+  color:white;
 }
-.alinhar{
-    display: inline-block;
-    width: 90px;
+label.hora {
+  display: inline-block;
+  width: 100px;
+  text-align: left;
 }
-
 
